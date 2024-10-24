@@ -75,3 +75,4 @@ main/terraform.rc
 .env
 
 main/pub_keys/*
+.idea/
